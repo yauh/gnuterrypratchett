@@ -1,7 +1,7 @@
 GNU Terry Pratchett
 ===================
 
-This is a simple package that adds a X-Clacks-Overhead header to all
+This is a simple package that adds a `X-Clacks-Overhead` header to all
 your HTTP responses
 
 How?
@@ -86,4 +86,5 @@ the shutter arrays above her blew more forlornly, and the everlasting
 clicking of the shutters grew more urgent. 'He'd never have wanted to go
 home. He was a real linesman. His name is in the code, in the wind in
 the rigging and the shutters. Haven't you ever heard the saying [**"A
-man's not dead while his name is still spoken"**](http://www.reddit.com/r/discworld/comments/2ysv26/sir_terry_has_gone_for_the_long_walk_across_the/cpcmru1)?'
+man's not dead while his name is still
+spoken"**](http://www.reddit.com/r/discworld/comments/2ysv26/sir_terry_has_gone_for_the_long_walk_across_the/cpcmru1)?'
